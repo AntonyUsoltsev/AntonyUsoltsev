@@ -6,7 +6,7 @@
 [![VK Badge](https://img.shields.io/badge/-VK-1155ba?style=for-the-badge&logo=vk)](https://vk.com/malignanttt)
 [![Mail Badge](https://img.shields.io/badge/-Mail-0088cd?style=for-the-badge&logo=maildotru&logoColor=yellow)](mailto:usoltsev_anton1@mail.ru) 
 - NSU student
-- Beginning Java developer
+- Beginner Java developer
 
 
 ### Languages
