@@ -8,9 +8,8 @@
 - NSU student
 - Beginner Java developer
 
-
-### Languages
+### Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python)](https://skillicons.dev)
-### Full statistics of language usage in all my repositories
+### Statistics of language usage in my repositories:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyUsoltsev&count-private=true&layout=donut&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
