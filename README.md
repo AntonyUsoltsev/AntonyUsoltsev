@@ -5,8 +5,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&color=blue)](https://t.me/malignantt)
 [![VK Badge](https://img.shields.io/badge/-VK-1155ba?style=for-the-badge&logo=vk)](https://vk.com/malignanttt)
 [![Mail Badge](https://img.shields.io/badge/-Mail-0088cd?style=for-the-badge&logo=maildotru&logoColor=yellow)](mailto:usoltsev_anton1@mail.ru) 
-- NSU student
-- Beginner Java developer
+- NSU Master student
+- Java developer
 
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python)](https://skillicons.dev)
